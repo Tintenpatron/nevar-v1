@@ -1,0 +1,19 @@
+[
+  {
+    "type": "PLAYING",
+    "message": "r!help | {{users}} Nutzer"
+  },
+  {
+    "type": "PLAYING",
+    "message": "r!invite | {{guilds}} Server"
+  },
+  {
+    "type": "LISTENING",
+    "message": "r!stats"
+  },
+  {
+    "type": "PLAYING",
+    "message": "r!invite | {{guilds}} Server"
+  }
+
+]
